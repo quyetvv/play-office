@@ -1,0 +1,28 @@
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\WordAddInReference.dll
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\WordAddInReference.pdb
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\WordAddInReference.dll.manifest
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\WordAddInReference.vsto
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\obj\Debug\WordAddInReference.Properties.Resources.resources
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\obj\Debug\WordAddInReference.RibbonAddin.resources
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\obj\Debug\WordAddInReference.csproj.GenerateResource.Cache
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\obj\Debug\WordAddInReference.dll
+D:\Projects\SourceCode\QuyetVV\Docs\Code Refs\WordAddInReference\WordAddInReference\obj\Debug\WordAddInReference.pdb
+D:\Code\Play\WordAddInReference\bin\Debug\WordAddInReference.dll
+D:\Code\Play\WordAddInReference\bin\Debug\WordAddInReference.pdb
+D:\Code\Play\WordAddInReference\bin\Debug\WordAddInReference.dll.manifest
+D:\Code\Play\WordAddInReference\bin\Debug\WordAddInReference.vsto
+D:\Code\Play\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Code\Play\WordAddInReference\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\Code\Play\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Word.dll
+D:\Code\Play\WordAddInReference\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Code\Play\WordAddInReference\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\Code\Play\WordAddInReference\obj\Debug\WordAddInReference.Properties.Resources.resources
+D:\Code\Play\WordAddInReference\obj\Debug\WordAddInReference.RibbonAddin.resources
+D:\Code\Play\WordAddInReference\obj\Debug\WordAddInReference.csproj.GenerateResource.Cache
+D:\Code\Play\WordAddInReference\obj\Debug\WordAddInReference.csproj.CoreCompileInputs.cache
+D:\Code\Play\WordAddInReference\obj\Debug\WordAddInReference.dll
+D:\Code\Play\WordAddInReference\obj\Debug\WordAddInReference.pdb
